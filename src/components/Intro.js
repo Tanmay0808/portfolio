@@ -41,7 +41,7 @@ function Intro() {
           <a href="https://twitter.com/Tanmay881999"><i className="fab fa-twitter"></i></a>
           <a href="https://github.com/Tanmay0808"><i className="fab fa-github"></i></a>
           <a href="https://www.instagram.com/saxena.tanmay"><i className="fab fa-instagram"></i></a>
-          <a href="https://www.linkedin.com/"><i className="fab fa-linkedin-in"></i></a>
+          <a href="https://www.linkedin.com/in/tanmay-saxena-337027194"><i className="fab fa-linkedin-in"></i></a>
         </div>
       </div>
       <div className="more-about-me"><a href="#about"><i className="fas fa-chevron-down"></i></a></div>

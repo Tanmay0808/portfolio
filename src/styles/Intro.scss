@@ -41,7 +41,8 @@
     list-style: none;
 
     & a{
-        line-height: 33px;
+        padding-top: 4px;
+        padding-left: 1px;
         display: inline-block;
         width: 35px;
         height: 35px;
@@ -52,8 +53,8 @@
         border-radius: 50%;
 
         &:hover{
-            background-color: #000;
-            //background-color: rgba(30, 30, 30, 0.9);
+            background-color: white;
+            color: black;
         }
     }
 }

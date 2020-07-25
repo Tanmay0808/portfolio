@@ -44,7 +44,7 @@ function About() {
                             </li>
                             <li>
                                 <strong>Website : </strong>
-                                <span>www.portfolio-tanmay.heroku.com</span>
+                                <span>https://tanmay0808.github.io/portfolio</span>
                             </li>
                             <li>
                                 <strong>Email : </strong>
